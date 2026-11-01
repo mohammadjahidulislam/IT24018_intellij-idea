@@ -8,3 +8,13 @@
 <img width="842" height="431" alt="Screenshot 2026-11-01 111411" src="https://github.com/user-attachments/assets/fccb988d-e646-49d5-a1b4-0831a9a85e67" />
 
 
+
+
+Final Servlet:
+
+
+
+<img width="1005" height="661" alt="image" src="https://github.com/user-attachments/assets/4169ef15-fb85-441c-ada3-2ef34afb47ec" />
+
+
+
